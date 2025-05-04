@@ -1,5 +1,5 @@
 ````markdown
-# 🛠️ Silent Worker App — by Virusia Tech Industries
+# 🛠️ Silent Worker App — by Werghost Inc.
 
 A stealth-mode background agent designed to execute routine or custom tasks silently and efficiently. No UI, no system tray presence — just pure, behind-the-scenes automation.
 
@@ -52,8 +52,8 @@ The Silent Worker App is a lightweight, invisible desktop application that:
 
 ```bash
 # Clone the repo
-git clone https://github.com/virusiatech/silent-worker.git
-cd silent-worker
+git clone https://github.com/MichealSamuel/virusia-spyware.git
+cd virusia-spyware
 
 # (Optional) Create virtual environment
 python -m venv venv
@@ -112,7 +112,7 @@ Crafted by **Jonathan** under the direction of **Werghost**
 > “We don’t just build tech. We shape the unseen.”
 
 —
-**© 2025 Virusia Tech Industries**
+**© 2025 Werghost Inc.**
 
 ```
 
